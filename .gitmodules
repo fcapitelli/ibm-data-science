@@ -1,0 +1,3 @@
+[submodule "heroku-dash-app-spacex"]
+	path = heroku-dash-app-spacex
+	url = https://github.com/fcapitelli/dash-app-spacex
